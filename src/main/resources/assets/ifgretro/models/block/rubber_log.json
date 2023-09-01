@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ifgretro:blocks/tile.ifgretro.rubberwood.log.top",
+    "up": "ifgretro:blocks/tile.ifgretro.rubberwood.log.top",
+    "north": "ifgretro:blocks/tile.ifgretro.rubberwood.log.side",
+    "east": "ifgretro:blocks/tile.ifgretro.rubberwood.log.side",
+    "south": "ifgretro:blocks/tile.ifgretro.rubberwood.log.side",
+    "west": "ifgretro:blocks/tile.ifgretro.rubberwood.log.side",
+    "particle": "ifgretro:blocks/tile.ifgretro.rubberwood.log.top"
+  }
+}

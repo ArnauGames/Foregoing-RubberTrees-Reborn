@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ifgretro:block/rubber_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ifgretro:block/rubber_log"
+    },
+    "axis=z": {
+      "model": "ifgretro:block/rubber_log",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ifgretro:blocks/tile.ifgretro.rubberwood.leaves.transparent",
+    "particle": "ifgretro:blocks/tile.ifgretro.rubberwood.leaves.transparent"
+  }
+}

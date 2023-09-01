@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ifgretro:blocks/tile.ifgretro.rubberwood.sapling",
+    "particle": "ifgretro:blocks/tile.ifgretro.rubberwood.sapling"
+  }
+}
